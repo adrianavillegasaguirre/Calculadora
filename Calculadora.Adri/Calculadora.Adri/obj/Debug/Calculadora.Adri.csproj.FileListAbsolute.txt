@@ -1,0 +1,11 @@
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\bin\Debug\Calculadora.Adri.exe.config
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\bin\Debug\Calculadora.Adri.exe
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\bin\Debug\Calculadora.Adri.pdb
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.csproj.AssemblyReference.cache
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.Form1.resources
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.Properties.Resources.resources
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.csproj.GenerateResource.cache
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.exe
+C:\Users\Adriana\Desktop\Calculadora.Adri\Calculadora.Adri\obj\Debug\Calculadora.Adri.pdb
